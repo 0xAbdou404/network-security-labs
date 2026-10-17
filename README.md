@@ -5,7 +5,7 @@ Hands-on networking and security labs, built and tested in an isolated lab envir
 ## About me
 Hi, I'm <your name>, a Master 1 student in Networks and Distributed Systems
 (Constantine 2). I am building these labs to learn how network protocols work
-and how they can be attacked and defended. [Add 1 or 2 sentences in your own words.]
+and how they can be attacked and defended. Goal of this labs to build solid foundations 
 
 ## Lab environment
 - Host: Windows, 16 GB RAM
