@@ -3,8 +3,7 @@
 Hands-on networking and security labs, built and tested in an isolated lab environment.
 
 ## About me
-Hi, I'm Nemmour Abderrahman, a Master 1 student in Networks and Distributed Systems
-(Constantine 2). I am building these labs to learn how network protocols work
+Hi, I'm Nemmour Abderrahman, a Master 1 student in Networks and Distributed Systems. I am building these labs to learn how network protocols work
 and how they can be attacked and defended. Goal of this labs to build solid foundations 
 
 ## Lab environment
