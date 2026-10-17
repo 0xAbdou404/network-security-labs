@@ -10,7 +10,7 @@ and how they can be attacked and defended. Goal of this labs to build solid foun
 ## Lab environment
 - Host: Windows, 16 GB RAM
 - VM: Ubuntu Desktop LTS in VMware (NAT for early labs, isolated network for attack labs)
-- Tools: Docker Engine, Wireshark, Python (venv), Scapy
+- Tools: Docker Engine, Wireshark, Python (venv)
 
 ## Labs
 | Lab | Topic | Status |
