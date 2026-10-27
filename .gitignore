@@ -1,1 +1,3 @@
 .venv
+/certs/example.crt
+/certs/example.key
