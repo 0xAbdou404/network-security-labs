@@ -1,4 +1,4 @@
 .venv
-lab-01-http-https-dns/certs/example.crt
-lab-01-http-https-dns/certs/example.key
+example.crt
+example.key
     
