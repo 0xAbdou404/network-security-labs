@@ -1,6 +1,6 @@
 # Lab 01: HTTP vs HTTPS vs DNS in Wireshark
 
-**Status**: In progress
+**Status**: Done
 
 ## Goal
 See what an observer on the network can read in DNS, HTTP and HTTPS traffic, and what encryption hides.
