@@ -14,8 +14,8 @@ and how they can be attacked and defended. Goal of this labs to build solid foun
 ## Labs
 | Lab | Topic | Status |
 |---|---|---|
-| 01 | HTTP vs HTTPS vs DNS in Wireshark | In progress |
-| 02 | Client/server, P2P and pub/sub in Python | Planned |
+| 01 | HTTP vs HTTPS vs DNS in Wireshark | Done |
+| 02 | Client/server, P2P and pub/sub in Python | In progress |
 | 03 | MQTT security | Planned |
 | 04 | VoIP: SIP and RTP | Planned |
 | 05 | TCP/UDP scanner and SYN flood detection | Planned |
