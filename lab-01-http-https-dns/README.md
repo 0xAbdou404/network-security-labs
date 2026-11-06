@@ -36,7 +36,7 @@ Ubuntu VM(VMware, NAT), Docker Engine, Wireshark
 HSTS is HTTP Strict Transport Security, HTTPS is very secure, but it has one flaw: It's not on by default. An attacker in the middle could hijack a user's connection before you can tell them to use HTTPS. HSTS solves this issue, with HSTS enabled, the server sends the same 301 moved permanently response, but also sends a header saying, "Hey, I don't support HTTP. Don't even try making more HTTP request", the browser get's the message, and will redirect itself to HTTPS before sending anything. This makes sure your site is fully HTTPS, by default, all the time.
 ### DoH and DoT
 - **DoT** mean DNS over TLS is a network protocol security measure designed to provide privacy and data integrity in communication between web browser and DNS resolvers.DoT adds an additional layer of TLS encryption on top of the UDP, it use the port 853
-- ***DoT** DNS over HTTPS is an alternative to DNS over TLS, that ensures DNS queries and responses are encrypted, and unlike DoT, it sends them via the HTTP or HTTP/2 protocols, is use the port 443, use TCP
+- **DoT** DNS over HTTPS is an alternative to DNS over TLS, that ensures DNS queries and responses are encrypted, and unlike DoT, it sends them via the HTTP or HTTP/2 protocols, is use the port 443, use TCP
 
 
 ## Mistakes and lessons
